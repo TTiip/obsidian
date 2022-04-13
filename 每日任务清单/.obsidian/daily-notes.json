@@ -1,0 +1,6 @@
+{
+  "folder": "/",
+  "template": "template/daily-plan",
+  "autorun": false,
+  "format": "YYYY-MM-DD"
+}
